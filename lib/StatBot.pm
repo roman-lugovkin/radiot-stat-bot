@@ -37,7 +37,7 @@ sub init {
         $MYSTEM_PATH = 'mystem';
     }
     else {
-        $MYSTEM_PATH = '/home/web/stat-bot/mystem';
+        $MYSTEM_PATH = '/stat-bot/mystem';
     }
 
     return $self;
